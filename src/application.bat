@@ -1,4 +1,6 @@
-### application.bat - 2015 - Loison Merlin ###
-echo "Copyright Loison - 2015"
-ECHO "Build : 10:00"
-ECHO "version 1.1"
+### application.bat - 2015 - Loison ###
+version = "2"
+build_hour = "11H00"
+
+echo "Build ${build_hour}"
+echo "version ${version}"
