@@ -1,4 +1,4 @@
-### application.bat - 2015 - Loison ###
+### application.bat - 2015 - Loison Romain GREFFIER###
 version = "2"
 build_hour = "11H00"
 
